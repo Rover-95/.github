@@ -9,20 +9,20 @@ We do stuff.
 Like hosting servers, creating browsers / apps and doing fun expriments!
 
 ## What is rover 95?
-<img align="left" height="100" src="https://raw.githubusercontent.com/.png">
+<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
 
 We host servers,create stuff and more!
 
 Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making things any time soon. Some projects are stored in the [Zell EXPRESS FTP](https://zell.vercel.app) or the [Exprite EZ FTP](https://exprite.vercel.app) .
 
 ## So what we doing?
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com">
+<img align="left" width="100" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
 
 Your mom :O
 
 
 ## Cool! But does anyone care?
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/.png">
+<img align="left" width="100" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
 
 We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 200 members, and our own custom FORUMS running on our servers!.
 
