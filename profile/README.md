@@ -18,8 +18,7 @@ Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making th
 ## So what we doing?
 <img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
 
-Your mom :O
-
+Your mom :O.
 
 ## Cool! But does anyone care?
 <img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
