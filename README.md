@@ -1,6 +1,6 @@
 # .Rover 95 Github
 # ℹ [![Discord](https://img.shields.io/discord/974363818543173692?color=5865f2&label=chat&logo=discord&logoColor=7289da)](https://discord.com/invite/MvWbN9puAx)![Discord]
-[<img align="left" height="100" src="https://zell.vercel.app/rover95l.png">](https://rover95.vercel.app/)
+[<img align="left" height="100" src="https://zell.vercel.app/resources/images/rover95l.png">](https://rover95.vercel.app/)
 
 Welcome to ROVER 95!
 
