@@ -17,7 +17,7 @@ Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making th
 
 ## So what we doing?
 <img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rover-95)](https://github.com/anuraghazra/github-readme-stats)
+# [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rover-95)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
