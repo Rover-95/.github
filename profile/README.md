@@ -22,7 +22,7 @@ Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making th
 
 Your mom :O.
 
-# Cool! But does anyone care?
+# Cool But does anyone care?
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
 We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 200 members, and our own custom FORUMS running on our servers!
