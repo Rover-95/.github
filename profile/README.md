@@ -24,7 +24,7 @@ Your mom
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
 We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 200 members, and our own custom FORUMS running on our servers!
- [Discord](https://img.shields.io/discord/974363818543173692?color=5865f2&label=chat&logo=discord&logoColor=7289da)](https://discord.com/invite/MvWbN9puAx)![Discord]
+ [[Discord](https://img.shields.io/discord/974363818543173692?color=5865f2&label=chat&logo=discord&logoColor=7289da)](https://discord.com/invite/MvWbN9puAx)![Discord]
 
 
 # Our Service Providers!
