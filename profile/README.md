@@ -1,3 +1,4 @@
+
 # Rover 95 Github
 
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
@@ -5,7 +6,6 @@
 Welcome to ROVER 95!
 
 We do stuff.
-
 Like hosting servers, creating browsers / apps and doing fun expriments!
 
 ## What is rover 95?
@@ -18,9 +18,12 @@ Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making th
 ## So what we doing?
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
-Your mom 
+We do not know, what are we doing.
+We do extremely random things. Few of them are server hosting for people and a minecraft server + developing random stuff!
+ 
 
-## Cool! But does anyone care?
+
+# Cool! But does anyone care?
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
 We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 300 members, and our own custom FORUMS running on our servers!
