@@ -37,5 +37,3 @@ We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 300 
  - [Reink](https://reink.vercel.app)
 
 
-![Logo](https://zell.vercel.app/resource/images/rover95l.png)
-
