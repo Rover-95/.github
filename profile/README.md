@@ -20,9 +20,8 @@ Rover 95 was founded in 2018 as Rasjet, and we're not planning to stop making th
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
 We do not know, what are we doing.
-We do extremely random things. Few of them are server hosting for people and a minecraft server + developing random stuff!
- 
-
+We do extremely random things.
+Few of them are server hosting for people and a minecraft server + developing random stuff!
 
 # Cool! But does anyone care?
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
