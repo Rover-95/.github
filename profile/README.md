@@ -6,6 +6,7 @@
 Welcome to ROVER 95!
 
 We do stuff.
+
 Like hosting servers, creating browsers / apps and doing fun expriments!
 
 ## What is rover 95?
@@ -27,6 +28,7 @@ We do extremely random things. Few of them are server hosting for people and a m
 [<img align="left" height="100" src="https://zell.vercel.app/resource/images/rover95l.png">](https://rover95.vercel.app/)
 
 We have a [Discord server](https://discord.com/invite/MvWbN9puAx) with over 300 members, and our own custom FORUMS running on our custom servers!
+
 
 ![Discord](https://img.shields.io/discord/974363818543173692?color=green&logo=discord&logoColor=white&style=for-the-badge)
 
